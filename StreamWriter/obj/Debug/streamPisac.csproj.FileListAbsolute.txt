@@ -1,0 +1,7 @@
+C:\Users\Ucenik\Desktop\Ruben Hamza\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\Users\Ucenik\Desktop\Ruben Hamza\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Users\Ucenik\Desktop\Ruben Hamza\StreamWriter\obj\Debug\streamPisac.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\StreamWriter\obj\Debug\streamPisac.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\StreamWriter\obj\Debug\StreamWriter.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\StreamWriter\obj\Debug\StreamWriter.pdb

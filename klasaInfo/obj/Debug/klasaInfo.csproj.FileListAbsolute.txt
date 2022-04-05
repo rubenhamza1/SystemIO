@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\bin\Debug\klasaInfo.exe.config
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\bin\Debug\klasaInfo.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\bin\Debug\klasaInfo.pdb
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\obj\Debug\klasaInfo.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\obj\Debug\klasaInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\obj\Debug\klasaInfo.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\obj\Debug\klasaInfo.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\klasaInfo\obj\Debug\klasaInfo.pdb
